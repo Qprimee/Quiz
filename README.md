@@ -1,6 +1,6 @@
 # Quiz
 
-rules of # Quiz :
+rules of Quiz :
 
 1. You will have only 15 seconds per each question.
 2. Once you select your answer, it can't be undone.
@@ -8,4 +8,4 @@ rules of # Quiz :
 4. You can't exit from the Quiz while you're playing.
 5. You'll get points on the basis of your correct answers.
 
-in # Quiz web ask you some question And you have to answer
+in Quiz web ask you some question And you have to answer
